@@ -1,0 +1,3 @@
+I used Git for version control in my project. Since iO has a self-hosted GitLab instance, it was preferred to use GitLab as the remote origin. I maintained a main branch as the primary branch and created separate branches for each new functionality, which would merge into the main branch.
+
+Sadly I am not able to share the git repo since the repo has to stay private on our own hosted gitlab instance.
